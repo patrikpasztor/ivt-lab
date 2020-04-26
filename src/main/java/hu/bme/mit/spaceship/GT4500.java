@@ -75,7 +75,7 @@ public class GT4500 implements SpaceShip {
           }
         }
         break;
-
+		//HELLO FROM A
       case ALL:
         // try to fire both of the torpedo stores
         //TODO implement feature
